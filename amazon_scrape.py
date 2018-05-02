@@ -1,3 +1,6 @@
+''' Save the price of a particular product in amazon on a daily basis to an xls file'''
+
+
 import bs4
 import requests
 import datetime
