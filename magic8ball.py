@@ -1,3 +1,5 @@
+'''Simulate the Magic 8 Ball using a list of responses'''
+
 import time
 import random
 
